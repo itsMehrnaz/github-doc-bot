@@ -1,0 +1,6 @@
+venv/
+downloaded_repo/
+__pycache__/
+*.pyc
+.env
+GENERATED_DOCS.md
